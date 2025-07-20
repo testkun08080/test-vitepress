@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as n,ag as l}from"./chunks/framework.DlGnLQc4.js";const g=JSON.parse('{"title":"アート制作","description":"","frontmatter":{},"headers":[],"relativePath":"art/index.md","filePath":"art/index.md"}'),p={name:"art/index.md"};function h(e,s,k,t,r,E){return n(),a("div",null,s[0]||(s[0]=[l("",56)]))}const y=i(p,[["render",h]]);export{g as __pageData,y as default};

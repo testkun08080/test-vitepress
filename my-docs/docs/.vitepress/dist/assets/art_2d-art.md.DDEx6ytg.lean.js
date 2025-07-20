@@ -1,0 +1,1 @@
+import{_ as t,c as a,o as l,ag as i}from"./chunks/framework.DlGnLQc4.js";const c=JSON.parse('{"title":"2Dアート","description":"","frontmatter":{},"headers":[],"relativePath":"art/2d-art.md","filePath":"art/2d-art.md"}'),o={name:"art/2d-art.md"};function n(e,r,s,h,g,d){return l(),a("div",null,r[0]||(r[0]=[i("",35)]))}const q=t(o,[["render",n]]);export{c as __pageData,q as default};

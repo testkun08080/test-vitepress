@@ -1,0 +1,1 @@
+import{_ as r,c as i,o as a,ag as o}from"./chunks/framework.DlGnLQc4.js";const c=JSON.parse('{"title":"ボイス","description":"","frontmatter":{},"headers":[],"relativePath":"sound/voice.md","filePath":"sound/voice.md"}'),t={name:"sound/voice.md"};function n(s,l,e,g,h,u){return a(),i("div",null,l[0]||(l[0]=[o("",50)]))}const q=r(t,[["render",n]]);export{c as __pageData,q as default};

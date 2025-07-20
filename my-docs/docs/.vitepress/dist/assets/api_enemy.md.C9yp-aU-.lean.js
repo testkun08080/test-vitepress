@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as n,ag as l}from"./chunks/framework.DlGnLQc4.js";const g=JSON.parse('{"title":"Enemy クラス","description":"","frontmatter":{},"headers":[],"relativePath":"api/enemy.md","filePath":"api/enemy.md"}'),p={name:"api/enemy.md"};function h(e,s,k,t,r,d){return n(),a("div",null,s[0]||(s[0]=[l("",28)]))}const y=i(p,[["render",h]]);export{g as __pageData,y as default};
