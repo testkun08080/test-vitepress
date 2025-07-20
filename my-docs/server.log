@@ -1,0 +1,10 @@
+nohup: ignoring input
+
+> my-docs@1.0.0 dev
+> vitepress dev docs
+
+
+  vitepress v1.6.3
+
+  ➜  Local:   http://localhost:12001/test-vitepress/
+  ➜  Network: http://10.2.35.144:12001/test-vitepress/
