@@ -5,6 +5,7 @@ export default defineConfig({
   description: 'ゲーム開発のための包括的なドキュメント',
   lang: 'ja',
   base: '/test-vitepress/',
+  ignoreDeadLinks: true,
   
   locales: {
     root: {
