@@ -1,0 +1,1 @@
+import{_ as r,c as o,o as t,ag as a}from"./chunks/framework.DlGnLQc4.js";const c=JSON.parse('{"title":"効果音","description":"","frontmatter":{},"headers":[],"relativePath":"sound/sfx.md","filePath":"sound/sfx.md"}'),i={name:"sound/sfx.md"};function n(s,l,e,g,h,u){return t(),o("div",null,l[0]||(l[0]=[a("",43)]))}const b=r(i,[["render",n]]);export{c as __pageData,b as default};

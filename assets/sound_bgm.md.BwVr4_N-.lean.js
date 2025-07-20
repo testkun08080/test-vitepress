@@ -1,0 +1,1 @@
+import{_ as l,c as i,o as n,ag as r}from"./chunks/framework.DlGnLQc4.js";const c=JSON.parse('{"title":"BGM制作","description":"","frontmatter":{},"headers":[],"relativePath":"sound/bgm.md","filePath":"sound/bgm.md"}'),s={name:"sound/bgm.md"};function t(o,a,e,h,g,u){return n(),i("div",null,a[0]||(a[0]=[r("",45)]))}const b=l(s,[["render",t]]);export{c as __pageData,b as default};
