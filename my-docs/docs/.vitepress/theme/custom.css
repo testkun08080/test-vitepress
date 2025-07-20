@@ -1,0 +1,17 @@
+/* Custom CSS */
+.VPNavBarMenu {
+  display: flex;
+  align-items: center;
+}
+
+.language-switcher-container {
+  margin-left: 12px;
+}
+
+@media (max-width: 768px) {
+  .language-switcher-container {
+    position: absolute;
+    top: 12px;
+    right: 64px;
+  }
+}
